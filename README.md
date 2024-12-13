@@ -1,3 +1,3 @@
 # gallerostore
 
-vamoss
+vamos
