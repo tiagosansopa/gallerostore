@@ -1,3 +1,3 @@
-# allerostore
+# gallerostore
 
 vamos
